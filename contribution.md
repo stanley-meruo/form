@@ -1,4 +1,4 @@
-This are the guideline for contributing in an organization. Collaboration can be done using the "fork and branch" workflow, folow this steps:
+This are the guideline for contributing in an organization. Collaboration can be done using the "fork and branch" workflow, follow this steps:
 
 1. Go to the repo in the organization {community website}(https://github.com/Bivylightspace/community_website)
 

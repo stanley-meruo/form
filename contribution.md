@@ -1,8 +1,8 @@
 This are the guideline for contributing in an organization. Collaboration can be done using the "fork and branch" workflow, follow this steps:
 
-1. Go to the repo in the organization {community website}(https://github.com/Bivylightspace/community_website)
+1. Go to the repo in the organization [community website](https://github.com/Bivylightspace/community_website)
 
- 2. To contribute, you have to fork the repo. But this repo will fork by the leader of the team {code repo}(https://github.com/Anniedevkiller/community_website/fork).
+ 2. To contribute, you have to fork the repo. But this repo will fork by the leader of the team [code repo](https://github.com/Anniedevkiller/community_website/fork).
 
  3. HOW WILL YOUR MEMBER COLLARBORATE?  Well as the team leader you are to send Github collboration invitations to the people in your team and are assigned to.
 
